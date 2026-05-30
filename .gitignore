@@ -1,0 +1,5 @@
+# compiled binary
+/p2p-ranking-board
+
+# local snapshot if written into the repo
+/snapshot.json
